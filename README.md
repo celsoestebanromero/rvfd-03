@@ -3,6 +3,7 @@
 ## Integrantes
 
 ROMERO, Celso Esteban 7mo 1ra COM: A
+
 RUIZ ROJO, Aaron Claudio Jesus 7mo 1ra COM: A
 
 ## Objetivo
